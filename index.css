@@ -7,7 +7,7 @@
 }
 
 .container{
-    background-image: url('../bgImage.jpg');
+    background-image: url('bgImage.jpg');
     background-size: cover;
     height: 100vh;
     width: 100vw;
